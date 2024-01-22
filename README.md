@@ -1,0 +1,2 @@
+# valmi
+gyakorlás
